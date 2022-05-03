@@ -1,7 +1,7 @@
 # SOBRE MIM 
 
 - 👋ola meu nome é @flavindopneu357
--   meu gmail de contato e kauan.henrique.xavier@escola.pr.gov.br 
+-   meu gmail de contato é (email) kauan.henrique.xavier@escola.pr.gov.br 
 -   eu estou interresado em aprender a programar novas linguagens 
 - 👀eu estou aprendendo a progamar recentemente a linguagem javascript e scratch
 
